@@ -7,15 +7,13 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on **full-stack projects** and **data analysis**
 - 🌱 Learning **Python, DSA, Django, and Machine Learning**
-- 🎯 Goal: Crack **GATE exam** and contribute to impactful open-source projects  
-- ⚡ Fun fact: I love building beginner-friendly projects from scratch  
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, C, SQL, JavaScript  
-- **Frameworks & Tools:** Django, React, Tailwind CSS, Git/GitHub  
-- **Data Skills:** Pandas, NumPy, Excel, Data Visualization  
+- **Frameworks & Tools:** Django, React, Git/GitHub  
+- **Data Skills:** Pandas, NumPy, Data Visualization  
 - **Others:** Power System & DSP (core Electrical concepts)  
 
 ---
@@ -34,9 +32,9 @@
 ---
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gautam-kumar-4b6475255/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=firefox)](https://your-portfolio-link)  
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your-email@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](gautamkumarxpvt@gmail.com)  
 
 ---
 ⭐️ From [your-username](https://github.com/your-username)
