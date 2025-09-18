@@ -1,4 +1,9 @@
-# Hi there 👋, I'm Gautam Kumar  
+<div align="center">
+<img src="https://i.pinimg.com/originals/83/1e/00/831e006f229fb7c51763fdb35b08a40b.gif">
+</div>
+<div align="center">
+  <strong>Hi, Hi there 👋, I'm Gautam Kumar</strong>
+</div>
 
 🎓 B.Tech Electrical Engineering Student | 💻 Aspiring Software Developer | 📊 Data Analyst Enthusiast  
 
@@ -19,8 +24,8 @@
 ---
 
 ## 📂 Featured Projects
-- 🔹 [Healthcare Assistant](https://github.com/your-username/healthcare-assistant) – Django + React project for doctor-patient connection  
-- 🔹 [Car Price Prediction](https://github.com/your-username/car-price-prediction) – Machine Learning regression project  
+- 🔹 [Healthcare-Management-System](https://github.com/gautam-oss/Healthcare-Management-System) – Docker + Django full-stack project
+- 🔹 [Car Price Prediction](https://github.com/gautam-oss/Car-price-prediction) – Machine Learning regression project  
 
 ---
 
@@ -29,4 +34,4 @@
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](gautamkumarxpvt@gmail.com)  
 
 ---
-⭐️ From [your-username](https://github.com/your-username)
+⭐️ From [your-username](https://github.com/gautam-oss)
