@@ -31,7 +31,7 @@
 ---
 
 ## 📂 Featured Projects
-- 🔹 [Healthcare-Management-System](https://github.com/gautam-oss/Healthcare-Management-System) – Docker + Django full-stack project  
+- 🔹 [Healthcare_Management_System](https://github.com/gautam-oss/Healthcare_Management_System) – Docker + Django full-stack project  
 - 🔹 [Car Price Prediction](https://github.com/gautam-oss/Car-price-prediction) – Machine Learning regression project  
 
 ---
