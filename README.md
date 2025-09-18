@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, C, SQL, JavaScript  
-- **Frameworks & Tools:** Django, React, Git/GitHub  
+- **Frameworks & Tools:** Django, Git/GitHub  
 - **Data Skills:** Pandas, NumPy, Data Visualization  
 - **Others:** Power System & DSP (core Electrical concepts)  
 
