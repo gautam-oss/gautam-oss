@@ -4,8 +4,9 @@
 <div align="center">
   <strong>Hi, Hi there 👋, I'm Gautam Kumar</strong>
 </div>
-
-🎓 B.Tech Electrical Engineering Student | 💻 Aspiring Software Developer | 📊 Data Analyst Enthusiast  
+<div align="center">
+  <strong>🎓 B.Tech Electrical Engineering Student | 💻 Aspiring Software Developer | 📊 Data Analyst Enthusiast</strong>
+</div>  
 
 ---
 
