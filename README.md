@@ -35,4 +35,4 @@
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](gautamkumarxpvt@gmail.com)  
 
 ---
-⭐️ From [your-username](https://github.com/gautam-oss)
+⭐️ From [gautam-oss](https://github.com/gautam-oss)
