@@ -12,9 +12,9 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gautamkumar)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gautamKumar)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautamkumar@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-kumar-4b6475255/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gautam-oss)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautamkumarxpvt@gmail.com)
   
 </div>
 
@@ -142,9 +142,9 @@ Bachelor of Technology in Electrical Engineering | CGPA: 6.12/10.0 | Expected Ma
 
 I'm always interested in collaborating on exciting projects or discussing tech, data analysis, and AI!
 
-- 💼 [LinkedIn](https://linkedin.com/in/gautamkumar)
-- 📧 [Email](mailto:gautamkumar@gmail.com)
-- 🐙 [GitHub](https://github.com/gautamKumar)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gautam-kumar-4b6475255/)
+- 📧 [Email](mailto:gautamkumarxpvt@gmail.com)
+- 🐙 [GitHub](https://github.com/gautam-oss)
 - 📞 Phone: 910-200-9458
 
 ---
