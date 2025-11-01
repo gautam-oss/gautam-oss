@@ -125,19 +125,6 @@ Bachelor of Technology in Electrical Engineering | CGPA: 6.12/10.0 | Expected Ma
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gautamKumar&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamKumar&layout=compact&theme=radical" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamKumar&theme=radical" alt="GitHub Streak">
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on exciting projects or discussing tech, data analysis, and AI!
