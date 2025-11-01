@@ -69,7 +69,7 @@
 ## 🏆 Featured Projects
 
 ### 🏥 [Healthcare Management System](https://github.com/gautam-oss/Healthcare_Management_System)
-**Full-Stack Web Application** | Django 5.2 + Docker + PostgreSQL | [Live Demo](https://healthcare-demo-link.com)
+**Full-Stack Web Application** | Django 5.2 + Docker + PostgreSQL | [Live Demo](https://healthcare-management-system-awe0.onrender.com)
 
 A comprehensive healthcare platform with AI-powered features and dual role-based authentication.
 
