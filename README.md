@@ -141,5 +141,5 @@ I'm always interested in collaborating on exciting projects or discussing tech, 
 </div>
 
 <div align="center">
-  ⭐️ From <a href="https://github.com/gautamKumar">gautamKumar</a> | Happy Coding! 💻
+  ⭐️ From <a href="https://github.com/gautam-oss">gautamKumar</a> | Happy Coding! 💻
 </div>
