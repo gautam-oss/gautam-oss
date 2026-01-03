@@ -87,19 +87,6 @@ A comprehensive healthcare platform with AI-powered features and dual role-based
 
 ---
 
-## 💼 Professional Experience
-
-### 📊 Data Analyst Intern @ University Living
-**May 2025 - July 2025** | Lajpat Nagar 2, New Delhi
-
-- Led comprehensive **user behavior and conversion funnel analysis** on University Living's digital platform
-- Identified key drop-off points and formulated data-driven hypotheses for conversion optimization
-- Utilized **Google Analytics, Mixpanel, and Amplitude** to track user journeys and segment audiences
-- Analyzed traffic volume, click-through rates, and conversion rates to drive business insights
-- Discovered **20% drop-off rate** at checkout and proposed simplified payment process solutions
-
----
-
 ## 🎓 Education
 
 **National Institute of Technology Agartala**  
