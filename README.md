@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <strong>🎓 B.Tech Electrical Engineering @ NIT Agartala | 💻 Full-Stack Developer | 📊 Data Analyst | 🤖 ML Enthusiast</strong>
+  <strong>🎓 B.Tech Electrical Engineering @ NIT Agartala | 💻 Full-Stack Developer | 📊 Data Analyst</strong>
 </div>
 
 
