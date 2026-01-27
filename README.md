@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-kumar-4b6475255/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-oss/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gautam-oss)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautamkumarxpvt@gmail.com)
   
@@ -22,18 +22,6 @@
   <img src="https://github.com/amantpl/amantpl/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
 
----
-
-## 🚀 About Me
-
-- 🎓 Electrical Engineering student at **NIT Agartala** (Expected May 2026)
-- 💼 Former **Data Analyst Intern** at **University Living** (May 2025 - July 2025)
-- 🔭 Currently building full-stack web applications with **Django** and **PostgreSQL**
-- 🌱 Exploring **Machine Learning**, **AI Integration**, and **Cloud Deployment**
-- 🎯 Passionate about creating impactful solutions through technology
-- 👨‍💼 Vice-President at **SPIC MACAY Heritage Club, NIT Agartala**
-
----
 
 ## 💻 Technical Skills
 
@@ -64,59 +52,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
-## 🏆 Featured Projects
-
-### 🏥 [Healthcare Management System](https://github.com/gautam-oss/Healthcare_Management_System)
-**Full-Stack Web Application** | Django 5.2 + Docker + PostgreSQL | [Live Demo](https://healthcare-management-system-awe0.onrender.com)
-
-A comprehensive healthcare platform with AI-powered features and dual role-based authentication.
-
-**Key Features:**
-- 🤖 **AI-Powered Health Chatbot** using Google Gemini API for 24/7 intelligent health assistance
-- 🔮 **ML Insurance Cost Predictor** using scikit-learn with linear regression for accurate cost estimates
-- 👥 **Dual Portal System:**
-  - **Patient Portal:** Real-time appointment booking with 50+ doctors, AI chatbot, insurance predictor, appointment history
-  - **Doctor Portal:** Appointment management, status updates, clinical notes, consultation scheduling
-- 🐳 **Production Deployment:** Docker containerization on Render with Gunicorn WSGI server
-- ⚡ **CI/CD Pipeline:** Automated migrations and environment-based configuration management
-- 📦 **Static File Serving:** WhiteNoise integration for efficient asset delivery
-
-**Tech Stack:** Django 5.2, PostgreSQL, Google Gemini AI, scikit-learn, Docker, Gunicorn, WhiteNoise, Render
-
----
-
-## 🎓 Education
-
-**National Institute of Technology Agartala**  
-Bachelor of Technology in Electrical Engineering | CGPA: 6.12/10.0 | Expected May 2026
-
-**Relevant Coursework:**
-- Web Development with Django
-- Object-Oriented Programming (Python)
-- Database Management Systems (DBMS)
-- Cloud & Deployment (Railway, Render, GitHub Actions)
-
----
-
-## 🌟 Leadership & Extracurriculars
-
-- 🎭 **Vice-President** - SPIC MACAY Heritage Club, NIT Agartala
-  - Led cultural initiatives and coordinated heritage events
-  - Managed a 20+ member student team
-  
-- 💻 **Member** - DCC Tech Society, NIT Agartala
-  - Contributed to coding contests, workshops, and technical discussions
-  - Fostered peer learning and collaboration
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on exciting projects or discussing tech, data analysis, and AI!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gautam-kumar-4b6475255/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gautam-oss/)
 - 📧 [Email](mailto:gautamkumarxpvt@gmail.com)
 - 🐙 [GitHub](https://github.com/gautam-oss)
 - 📞 Phone: 910-200-9458
