@@ -1,60 +1,101 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/83/1e/00/831e006f229fb7c51763fdb35b08a40b.gif">
+
+# Hey, I'm Gautam Kumar 👋
+
+**Backend Developer** · Electrical Engineering → Code · NIT Agartala '26
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautamkumarxpvt@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+
 </div>
 
-<div align="center">
-  <h1>Hi there 👋, I'm Gautam Kumar</h1>
-</div>
+---
 
-<div align="center">
-  <strong>🎓 B.Tech Electrical Engineering @ NIT Agartala | 💻 Full-Stack Developer | 📊 Data Analyst</strong>
-</div>
+## 🧠 About Me
 
+I come from **Electrical Engineering**, but curiosity pulled me into backend development — and I haven't looked back.
 
+As a final-year student, I've built and **shipped** projects using Python, Django, Flask, and Docker, backed by SQL/NoSQL databases and automated with CI/CD pipelines. My engineering background sharpens my problem-solving, while my hands-on DevOps experience means I understand the **full development lifecycle** — from writing code to deploying it.
 
+> *I don't just write code — I ship it.*
 
-## 💻 Technical Skills
+---
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🛠️ Tech Stack
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**Languages**
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-### Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Frameworks & Libraries**
 
-## 🤝 Let's Connect!
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
-I'm always interested in collaborating on exciting projects or discussing tech, data analysis, and AI!
+**Databases**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gautam-oss/)
-- 📧 [Email](mailto:gautamkumarxpvt@gmail.com)
-- 🐙 [GitHub](https://github.com/gautam-oss)
-- 📞 Phone: 910-200-9458
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS ECR](https://img.shields.io/badge/AWS_ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Projects
+
+### 🏥 MedMaster — Full-Stack SaaS Platform
+A multi-module Django platform built for healthcare workflows.
+
+- 🔐 Patient authentication, appointment scheduling & insurance management
+- 🤖 AI chatbot powered by the **Gemini API**
+- ⚙️ CI/CD pipeline via **GitHub Actions** → auto-tests, Docker builds, and pushes to **AWS ECR** on every merge to `main`
+
+---
+
+### 🌍 Global CO₂ Emissions Analysis (1960–2019)
+Data science project exploring 60 years of global emissions.
+
+- 📊 Cleaned and structured raw data using **Pandas** and **NumPy**
+- 📈 Built line & bar charts with **Matplotlib** to highlight emission trajectories and historical anomalies
+- 🏭 Ranked nations by output to assess the impact of industrialization on climate change
+
+---
+
+## 🏆 Achievements
+
+- 🏅 **OpenAI Academy × NxtWave Buildathon** — Selected for the 2-day Delhi Regional edition
+- 🧬 **AI-Driven RNA Therapeutics Workshop** — 5-day intensive on computational drug design; hands-on experience in siRNA efficacy prediction and ML pipelines
+
+---
+
+## 🎭 Beyond Code
+
+**Vice-President, SPIC MACAY Heritage Club — NIT Agartala**
+Led cultural initiatives, coordinated heritage events, and managed a 20+ member student team.
+
+---
+
+## 📫 Let's Connect
+
+- 📧 [gautamkumarxpvt@gmail.com](mailto:gautamkumarxpvt@gmail.com)
+- 📱 +91 9102009458
+- 📍 Bikramganj, Rohtas, Bihar
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gautamKumar&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
-</div>
-
-<div align="center">
-  Happy Coding! 💻
+  <i>Open to backend/DevOps roles where I can build, deploy, and grow.</i>
 </div>
